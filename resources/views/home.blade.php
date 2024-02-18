@@ -17,10 +17,6 @@
 
 <body class="bg-success">
     <div class="col-12 m"></div>
-    asdasd
-
-
-
 <div class="container w-25 mt-5">
     <div class="card shadow -sm">
         <div class="card-body">
